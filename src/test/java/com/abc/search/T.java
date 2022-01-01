@@ -17,6 +17,11 @@ public class T extends B{
 
 	}
 	
+	@Test
+	public void seraj() {
+		System.out.println("@seraj");
+
+	}
 	
 	
 	
