@@ -17,6 +17,19 @@ public class T extends B{
 
 	}
 	
+	@Test
+	public void seraj() {
+		System.out.println("@seraj");
+
+	}
+	
+	@Test
+	public void Kamolesh() {
+		System.out.println("@Kamolesh");
+		//Test
+	}
+	
+
 	
 	
 	
