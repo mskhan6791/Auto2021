@@ -27,12 +27,10 @@ public class T extends B{
 	public void Kamolesh() {
 		System.out.println("@Kamolesh");
 		//Test!
+  }
+	@Test
+	public void Kamolesh() {
+		System.out.println("@Kamolesh");
+
 	}
-	
-
-	
-	
-	
-	
-
 }
