@@ -22,6 +22,13 @@ public class T extends B{
 		System.out.println("@seraj");
 
 	}
+	@Test
+	public void Kamolesh() {
+		System.out.println("@Kamolesh");
+
+	}
+	
+
 	
 	
 	
