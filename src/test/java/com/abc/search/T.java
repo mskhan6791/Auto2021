@@ -28,9 +28,5 @@ public class T extends B{
 		System.out.println("@Kamolesh");
 		//Test!
   }
-	@Test
-	public void Kamolesh() {
-		System.out.println("@Kamolesh");
-
-	}
+	
 }
