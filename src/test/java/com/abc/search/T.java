@@ -17,6 +17,12 @@ public class T extends B{
 
 	}
 	
+	@Test
+	public void Kamolesh() {
+		System.out.println("@Kamolesh");
+
+	}
+	
 	
 	
 	
