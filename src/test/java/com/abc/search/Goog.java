@@ -11,7 +11,10 @@ public class Goog extends BaseTest{
 	
 	HomeActions homePage = null;
 	
-	
+	@Test
+	public void sum() {
+		System.out.println("sum");
+	}
 	
 	@Test(groups = {"SmokeTest", "Regression","Search"})
 	public void t() throws InterruptedException {
